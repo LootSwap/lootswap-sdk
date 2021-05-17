@@ -115,7 +115,7 @@ export const WETH = {
   ),
   [ChainId.HARMONY_TESTNET]: new Token(
     ChainId.HARMONY_TESTNET,
-    '0x7466d7d0C21Fa05F32F5a0Fa27e12bdC06348Ce2',
+    '0x807b8da767a712ec2f3ba6817981ea49d5f76b9b',
     18,
     'WONE',
     'Wrapped ONE'
